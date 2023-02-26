@@ -1,0 +1,7 @@
+.footer__container  {
+  max-width: 1002px;
+  margin: 0 auto 0;
+  padding: 67px 0;
+  display: flex;
+  justify-content: space-between;
+}

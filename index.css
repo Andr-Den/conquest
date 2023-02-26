@@ -1,3 +1,10 @@
 @import url(./blocks/header/header.css);
 @import url(./blocks/header/__nav/header__nav.css);
 @import url(./blocks/header/__icons/header__icons.css);
+
+@import url(./blocks/footer/footer.css);
+@import url(./blocks/footer/__container/footer__container.css);
+@import url(./blocks/footer/__info/footer__info.css);
+@import url(./blocks/footer/__nav/footer__nav.css);
+@import url(./blocks/footer/__title/footer__title.css);
+@import url(./blocks/footer/__link/footer__link.css);
