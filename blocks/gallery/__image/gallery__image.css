@@ -1,0 +1,6 @@
+.gallery__image {
+  background-image: url(../../../images/photo_banner.jpg);
+  width: 521px;
+  height: 414px;
+  position: relative;
+}

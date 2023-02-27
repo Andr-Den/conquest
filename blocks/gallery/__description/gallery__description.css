@@ -1,0 +1,10 @@
+.gallery__description {
+  margin: 0;
+  margin-top: 38px;
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 150%;
+  color: #444240;
+}
