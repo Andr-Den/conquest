@@ -25,6 +25,12 @@
 @import url(./blocks/catalog/__about/catalog__about.css);
 @import url(./blocks/catalog/__about-link/catalog__about-link.css);
 
+@import url(./blocks/news/__container/news__container.css);
+@import url(./blocks/news/__title/news__title.css);
+@import url(./blocks/news/__description/news__description.css);
+@import url(./blocks/news/__social-icons/news__social-icons.css);
+@import url(./blocks/news/__illustrations/news__illustrations.css);
+
 
 @import url(./blocks/footer/footer.css);
 @import url(./blocks/footer/__container/footer__container.css);

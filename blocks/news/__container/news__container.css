@@ -1,0 +1,7 @@
+.news__container {
+  max-width: 1170px;
+  margin: 81px auto 90px;
+  display: flex;
+  gap: 70px;
+  align-items: center;
+}
