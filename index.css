@@ -14,6 +14,18 @@
 @import url(./blocks/hero/__button/hero__button.css);
 @import url(./blocks/hero/__illustration/hero__illustration.css);
 
+@import url(./blocks/catalog/__container/catalog__container.css);
+@import url(./blocks/catalog/__title/catalog__title.css);
+@import url(./blocks/catalog/__link/catalog__link.css);
+@import url(./blocks/catalog/__block/catalog__block.css);
+@import url(./blocks/catalog/__card/catalog__card.css);
+@import url(./blocks/catalog/__name/catalog__name.css);
+@import url(./blocks/catalog/__price/catalog__price.css);
+@import url(./blocks/catalog/__image/catalog__image.css);
+@import url(./blocks/catalog/__about/catalog__about.css);
+@import url(./blocks/catalog/__about-link/catalog__about-link.css);
+
+
 @import url(./blocks/footer/footer.css);
 @import url(./blocks/footer/__container/footer__container.css);
 @import url(./blocks/footer/__info/footer__info.css);

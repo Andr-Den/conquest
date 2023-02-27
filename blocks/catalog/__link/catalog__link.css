@@ -1,0 +1,12 @@
+.catalog__link {
+  text-decoration: none;
+  padding-bottom: 11px;
+  border-bottom: 1px solid #C4C0B6;
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 19px;
+  color: #444240;
+  align-self: flex-end
+}
