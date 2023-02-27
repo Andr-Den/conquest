@@ -1,0 +1,6 @@
+.hero {
+  position: relative;
+  max-width: 1126px;
+  margin: 0 auto 0;
+  display: flex;
+}

@@ -2,6 +2,18 @@
 @import url(./blocks/header/__nav/header__nav.css);
 @import url(./blocks/header/__icons/header__icons.css);
 
+@import url(./blocks/hero/hero.css);
+@import url(./blocks/hero/__back/hero__back.css);
+@import url(./blocks/hero/__price/hero__price.css);
+@import url(./blocks/hero/__diameter/hero__diameter.css);
+@import url(./blocks/hero/__line/hero__line.css);
+@import url(./blocks/hero/__info/hero__info.css);
+@import url(./blocks/hero/__title/hero__title.css);
+@import url(./blocks/hero/__subtitle/hero__subtitle.css);
+@import url(./blocks/hero/__description/hero__description.css);
+@import url(./blocks/hero/__button/hero__button.css);
+@import url(./blocks/hero/__illustration/hero__illustration.css);
+
 @import url(./blocks/footer/footer.css);
 @import url(./blocks/footer/__container/footer__container.css);
 @import url(./blocks/footer/__info/footer__info.css);
