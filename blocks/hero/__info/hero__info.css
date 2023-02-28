@@ -2,3 +2,10 @@
   margin-top: 236px;
   margin-left: 65px;
 }
+
+@media screen and (max-width: 860px){
+  .hero__info {
+    margin: 60px auto 0;
+    text-align: center;
+  }
+}

@@ -3,3 +3,9 @@
   top: 94px;
   right: 45%;
 }
+
+@media screen and (max-width: 1200px){
+  .hero__price {
+    display: none;
+  }
+}

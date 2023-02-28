@@ -3,3 +3,9 @@
   bottom: 118px;
   right: 30px;
 }
+
+@media screen and (max-width: 1200px){
+  .hero__diameter {
+    display: none;
+  }
+}

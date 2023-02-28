@@ -1,11 +1,17 @@
 .hero__description {
   margin: 0;
   margin-top: 40px;
-  width: 258px;
+  max-width: 258px;
   font-family: 'Roboto';
   font-style: normal;
   font-weight: 300;
   font-size: 14px;
   line-height: 21px;
   color: rgba(27, 26, 23, 0.82);
+}
+
+@media screen and (max-width: 860px){
+  .hero__description {
+    margin: 16px auto 0;
+  }
 }

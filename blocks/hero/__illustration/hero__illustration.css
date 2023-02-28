@@ -2,3 +2,15 @@
   padding-left: 134px;
   width: 502px;
 }
+
+@media screen and (max-width: 1040px){
+  .hero__illustration {
+    padding-left: 20px;
+  }
+}
+
+@media screen and (max-width: 860px){
+  .hero__illustration {
+    display: none;
+  }
+}

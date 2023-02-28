@@ -3,3 +3,9 @@
   left: 0;
   top: 265px;
 }
+
+@media screen and (max-width: 1200px){
+  .hero__line {
+    display: none;
+  }
+}
