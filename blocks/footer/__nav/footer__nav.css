@@ -2,3 +2,9 @@
   list-style: none;
   padding: 0;
 }
+
+@media screen and (max-width: 1040px){
+  .footer__nav {
+    text-align: center;
+  }
+}
