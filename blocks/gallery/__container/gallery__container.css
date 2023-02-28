@@ -1,6 +1,6 @@
 .gallery__container {
   max-width: 1012px;
-  margin: 53px auto 53px;
+  margin: 0 auto 0;
   display: flex;
   gap: 70px;
   align-items: center;
