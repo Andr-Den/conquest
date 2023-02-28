@@ -13,6 +13,10 @@
   color: #FFFFFF;
 }
 
+.hero__button:hover {
+  cursor: pointer;
+}
+
 @media screen and (max-width: 860px){
   .hero__button {
     margin-top: 30px;

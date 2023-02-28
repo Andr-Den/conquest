@@ -3,6 +3,7 @@
 @import url(./blocks/header/header.css);
 @import url(./blocks/header/__nav/header__nav.css);
 @import url(./blocks/header/__icons/header__icons.css);
+@import url(./blocks/header/__link/header__link.css);
 
 @import url(./blocks/hero/hero.css);
 @import url(./blocks/hero/__back/hero__back.css);

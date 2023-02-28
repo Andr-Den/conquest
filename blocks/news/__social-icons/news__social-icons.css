@@ -3,3 +3,7 @@
   display: flex;
   gap: 16px;
 }
+
+.news__social-icons:hover {
+  cursor: pointer;
+}

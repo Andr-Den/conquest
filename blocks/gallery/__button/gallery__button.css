@@ -12,3 +12,7 @@
   text-transform: uppercase;
   color: #FFFFFF;
 }
+
+.gallery__button:hover {
+  cursor: pointer;
+}
