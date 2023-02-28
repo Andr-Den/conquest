@@ -30,3 +30,36 @@
   src: url(./Robotomedium.woff2) format("woff2"),
        url(./Robotomedium.woff) format("woff"),
 }
+
+@font-face {
+  font-family: "Playfair Display";
+  font-style:  normal;
+  font-weight: 400;
+  font-display: swap;
+  -webkit-font-smoothing: antialiased;
+  -webkit-text-size-adjust: 100%;
+  src: url(./PlayfairDisplay-Regular.woff2) format("woff2"),
+       url(./PlayfairDisplay-Regular.woff) format("woff"),
+}
+
+@font-face {
+  font-family: "Playfair Display";
+  font-style:  normal;
+  font-weight: 700;
+  font-display: swap;
+  -webkit-font-smoothing: antialiased;
+  -webkit-text-size-adjust: 100%;
+  src: url(./PlayfairDisplay-Bold.woff2) format("woff2"),
+       url(./PlayfairDisplay-Bold.woff) format("woff"),
+}
+
+@font-face {
+  font-family: "Prata";
+  font-style:  normal;
+  font-weight: 400;
+  font-display: swap;
+  -webkit-font-smoothing: antialiased;
+  -webkit-text-size-adjust: 100%;
+  src: url(./Prata.woff2) format("woff2"),
+       url(./Prata.woff) format("woff"),
+}
