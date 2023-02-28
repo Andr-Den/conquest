@@ -42,6 +42,7 @@
 @import url(./blocks/news/__description/news__description.css);
 @import url(./blocks/news/__social-icons/news__social-icons.css);
 @import url(./blocks/news/__illustrations/news__illustrations.css);
+@import url(./blocks/news/__info/news__info.css);
 
 
 @import url(./blocks/footer/footer.css);

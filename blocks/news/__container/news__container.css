@@ -5,3 +5,9 @@
   gap: 70px;
   align-items: center;
 }
+
+@media screen and (max-width: 1280px){
+  .news__container {
+    flex-direction: column;
+  }
+}
