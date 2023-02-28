@@ -8,5 +8,15 @@
   font-size: 16px;
   line-height: 19px;
   color: #444240;
-  align-self: flex-end
+  align-self: flex-end;
+}
+
+.catalog__link:hover {
+  cursor: pointer;
+}
+
+@media screen and (max-width: 1200px){
+  .catalog__link {
+    align-self: center;
+  }
 }
